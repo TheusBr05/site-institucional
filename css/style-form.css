@@ -1,0 +1,39 @@
+/* LOGIN */
+
+.formulario {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    color: #CE477F;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.formulario input{
+    border-radius: 5px;
+    border:2px solid #32B9CD;
+    margin-bottom: 10px;
+    padding: 3px 2px;
+}
+
+.formulario h4{
+    margin: 0px
+}
+
+#saldacao{
+    font-size: 25px;
+    margin-bottom: 20px;
+    align-self: center;
+}
+
+.formulario button{
+    background-color: #CE477F;
+    border-radius: 5px;
+    color: white;
+    width: 100px;
+    border: 0px;
+    padding: 3px 0px;
+    align-self: center;
+    cursor: pointer;
+}
+
